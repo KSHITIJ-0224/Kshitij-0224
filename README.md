@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Next.js+%7C+React+%7C+Node.js;AI+Projects+%7C+Backend+APIs;Always+Learning+Always+Building&center=true&width=750&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Next.js+%7C+React+%7C+Node.js;TypeScript+%7C+Backend+APIs;Always+Learning+Always+Building&center=true&width=750&height=50">
 </p>
 
 ---
