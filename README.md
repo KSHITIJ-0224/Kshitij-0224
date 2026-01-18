@@ -88,7 +88,7 @@ Worked on an Admin Panel for an e-commerce project.
 - 📊 Dashboard + analytics UI
 - 🔐 Admin authentication & protected routes
 
-🔗 Repo: *(add link if public)*
+🔗 Repo: (https://github.com/uni3solutions/incart-panel)
 
 ---
 
