@@ -1,65 +1,94 @@
 <h1 align="center">Hi 👋, I'm Kshitij Chavan</h1>
-<h3 align="center">🚀 Full Stack Developer | MERN | Next.js | Java</h3>
+<h3 align="center">🚀 Full Stack Developer | MERN + Next.js | Backend APIs | AI Projects</h3>
 
 <p align="center">
   <a href="https://github.com/Kshitij-0224">
-    <img src="https://komarev.com/ghpvc/?username=Kshitij-0224&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+    <img src="https://komarev.com/ghpvc/?username=Kshitij-0224&label=Profile%20Views&color=0e75b6&style=flat" />
   </a>
   <a href="https://github.com/Kshitij-0224?tab=followers">
-    <img src="https://img.shields.io/github/followers/Kshitij-0224?label=Followers&style=social" alt="followers" />
+    <img src="https://img.shields.io/github/followers/Kshitij-0224?label=Followers&style=social" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;MongoDB+%7C+MySQL;Always+Learning+New+Things&center=true&width=650&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Next.js+%7C+React+%7C+Node.js;AI+Projects+%7C+Backend+APIs;Always+Learning+Always+Building&center=true&width=750&height=50">
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on **Full Stack Projects**
-- 🌱 Learning **System Design + Microservices**
-- 💬 Ask me about **React, Next.js, Node.js, MongoDB**
-- 🎯 Goal: **Crack a Top Product / Startup Company**
-- ⚡ Fun fact: I love building clean UIs with **Tailwind CSS**
+- 🔥 Full Stack Developer passionate about building **real-world projects**
+- ⚡ Strong in **MERN Stack + Next.js**
+- 🛠 Skilled in **Backend APIs, JWT Auth, MongoDB**
+- 🧠 Building AI + Automation projects like **Aadrila AI**
+- 🎯 Goal: Join a **Top Startup / Product-based Company**
 
 ---
 
 ## 🧰 Tech Stack
 
-### 🚀 Frontend
-![React](https://img.shields.io/badge/-React-000?&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=nextdotjs)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=tailwindcss)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
-
-### 🛠 Backend
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-000?&logo=express)
-![Java](https://img.shields.io/badge/-Java-000?&logo=openjdk)
-![JWT](https://img.shields.io/badge/-JWT-000?&logo=jsonwebtokens)
-
-### 🗄 Database
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
-
-### ⚙ Tools
-![Git](https://img.shields.io/badge/-Git-000?&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)
-![Postman](https://img.shields.io/badge/-Postman-000?&logo=postman)
-![Vercel](https://img.shields.io/badge/-Vercel-000?&logo=vercel)
+**Frontend:** React, Next.js, Tailwind CSS, JavaScript  
+**Backend:** Node.js, Express.js, JWT, REST APIs  
+**Database:** MongoDB, MySQL  
+**Tools:** Git, GitHub, Postman, Vercel  
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Projects (Series)
 
-### 🔥 1) ARUTIS Technologies Website (Software Firm Project)
-- ⚡ Built with **React / Next.js**
-- ✅ Responsive design + CTA section
-- 📩 Contact form integrated
+### 🏢 1) ARUTIS Technologies Website (Software Firm Project)
+A professional software firm website made for branding + conversion.
 
-🔗 Repo: [ARUTIS Project](https://github.com/Kshitij-0224)
+✅ Highlights:
+- ⚡ Built using **React / Next.js**
+- 🎨 Fully responsive UI (Tailwind CSS)
+- 📩 Contact form + validations
+- ✅ CTA Section for conversions
+
+🔗 Repo: [ARUTIS Technologies](https://github.com/Kshitij-0224)  
+🌐 Live: (https://arutistechnologies.com)
+
+---
+
+### 🧠 2) Aadrila AI Project (AI + Automation)
+An AI-based project focused on smart features and automation.
+
+✅ Highlights:
+- 🤖 AI-powered functionalities
+- 🔍 Data processing / smart responses
+- ⚙ API integration + scalable backend logic
+
+🔗 Repo: [Aadrila AI Project](https://github.com/Kshitij-0224)  
+🌐 Live: (https://aadrila-ai-nine.vercel.app)
+
+---
+
+### 🛠 3) Backend Project (REST API + Auth + DB)
+A backend focused project showing real industry backend skills.
+
+✅ Highlights:
+- 🔐 JWT Authentication + authorization
+- 🗄 MongoDB/MySQL integration
+- ✅ CRUD APIs + validations
+- 📮 Fully tested using Postman
+
+🔗 Repo: [Backend Project](https://github.com/Kshitij-0224)
+
+---
+
+## ✅ Contributions / Work Highlights
+
+### 🛒 InCart Project — Admin Panel (Contribution)
+Worked on an Admin Panel for an e-commerce project.
+
+✅ Highlights:
+- 📦 Product, Category & Order Management
+- 👥 User management and role access
+- 📊 Dashboard + analytics UI
+- 🔐 Admin authentication & protected routes
+
+🔗 Repo: *(add link if public)*
 
 ---
 
@@ -79,7 +108,7 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kshitij-0224&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Kshitij-0224&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
@@ -87,10 +116,10 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:chavankshitij170@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin/">
+  <a href="www.linkedin.com/in/kshitij-chavan-01502b313">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Kshitij-0224">
@@ -100,4 +129,4 @@
 
 ---
 
-<h3 align="center">✨ “Build. Learn. Repeat.” ✨</h3>
+<h3 align="center">✨ “Build fast. Learn faster.” ✨</h3>
